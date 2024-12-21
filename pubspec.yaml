@@ -1,0 +1,136 @@
+name: flutter_app
+description: "A new Flutter project."
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.3.3 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.6
+  google_fonts: ^6.2.1
+  smooth_page_indicator: ^1.2.0+3
+  pin_code_fields: ^8.0.1
+  persistent_bottom_nav_bar: ^6.2.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+  flutter_svg: ^2.0.10+1
+
+flutter:
+  uses-material-design: true
+  assets:
+  - assets/images/ellipse_25.png
+  - assets/images/rectangle_8331.jpeg
+  - assets/images/details.png
+  - assets/images/rectangle_825.jpeg
+  - assets/images/rectangle_822.jpeg
+  - assets/images/rectangle_824.jpeg
+  - assets/images/rectangle_27.png
+  - assets/images/rectangle_823.jpeg
+  - assets/vectors/cap_x2.svg
+  - assets/vectors/vector_175_stroke_2_x2.svg
+  - assets/vectors/star_61_x2.svg
+  - assets/vectors/wifi_3_x2.svg
+  - assets/vectors/rectangle_8151_x2.svg
+  - assets/vectors/ellipse_8842_x2.svg
+  - assets/vectors/rectangle_14_x2.svg
+  - assets/vectors/cellular_connection_3_x2.svg
+  - assets/images/ellipse_25.png
+  - assets/images/ellipse_21.png
+  - assets/images/rectangle_34.png
+  - assets/images/rectangle_27.png
+  - assets/images/ellipse_23.png
+  - assets/vectors/caht_x2.svg
+  - assets/vectors/rectangle_8152_x2.svg
+  - assets/vectors/cellular_connection_10_x2.svg
+  - assets/vectors/ellipse_8841_x2.svg
+  - assets/vectors/battery_3_x2.svg
+  - assets/vectors/rectangle_815_x2.svg
+  - assets/vectors/group_1_x2.svg
+  - assets/vectors/star_6_x2.svg
+  - assets/vectors/ellipse_884_x2.svg
+  - assets/vectors/wifi_6_x2.svg
+  - assets/vectors/ellipse_255_x2.svg
+  - assets/vectors/group_33_x2.svg
+  - assets/vectors/star_62_x2.svg
+  - assets/vectors/calendar_x2.svg
+  - assets/vectors/vector_25242_x2.svg
+  - assets/vectors/notifications_x2.svg
+  - assets/vectors/group_41_x2.svg
+  - assets/vectors/rectangle_15_x2.svg
+  - assets/vectors/wifi_1_x2.svg
+  - assets/vectors/cellular_connection_6_x2.svg
+  - assets/vectors/battery_5_x2.svg
+  - assets/vectors/vector_175_stroke_1_x2.svg
+  - assets/vectors/vector_3_x2.svg
+  - assets/vectors/image_1_x2.svg
+  - assets/vectors/vector_x2.svg
+  - assets/vectors/group_3321_x2.svg
+  - assets/vectors/group_x2.svg
+  - assets/vectors/vector_4_x2.svg
+  - assets/vectors/vector_2_x2.svg
+  - assets/vectors/image_x2.svg
+  - assets/vectors/wifi_11_x2.svg
+  - assets/vectors/group_332_x2.svg
+  - assets/vectors/cellular_connection_1_x2.svg
+  - assets/vectors/battery_8_x2.svg
+  - assets/vectors/vector_175_stroke_5_x2.svg
+  - assets/vectors/group_2_x2.svg
+  - assets/vectors/battery_10_x2.svg
+  - assets/vectors/wifi_5_x2.svg
+  - assets/vectors/cellular_connection_2_x2.svg
+  - assets/vectors/cellular_connection_9_x2.svg
+  - assets/vectors/vector_175_stroke_6_x2.svg
+  - assets/vectors/battery_2_x2.svg
+  - assets/vectors/wifi_8_x2.svg
+  - assets/vectors/battery_7_x2.svg
+  - assets/vectors/wifi_10_x2.svg
+  - assets/vectors/email_x2.svg
+  - assets/vectors/vector_175_stroke_x2.svg
+  - assets/vectors/cellular_connection_5_x2.svg
+  - assets/images/rectangle_8331.jpeg
+  - assets/images/ellipse_25.png
+  - assets/images/ellipse_21.png
+  - assets/images/rectangle_833.jpeg
+  - assets/images/badb_634985775_ab_28_d_9_d_515_ac.png
+  - assets/images/ellipse_23.png
+  - assets/vectors/battery_9_x2.svg
+  - assets/vectors/vector_175_stroke_3_x2.svg
+  - assets/vectors/rectangle_821_x2.svg
+  - assets/vectors/star_63_x2.svg
+  - assets/vectors/cellular_connection_8_x2.svg
+  - assets/vectors/group_911_x2.svg
+  - assets/vectors/date_x2.svg
+  - assets/vectors/wifi_9_x2.svg
+  - assets/vectors/group_91_x2.svg
+  - assets/vectors/ellipse_8843_x2.svg
+  - assets/images/banner_png_1.png
+  - assets/vectors/vector_25241_x2.svg
+  - assets/vectors/battery_x2.svg
+  - assets/vectors/wifi_2_x2.svg
+  - assets/vectors/cellular_connection_7_x2.svg
+  - assets/images/a_6624_a_42_c_117099537_c_7_a_1320256_d_1.png
+  - assets/vectors/battery_4_x2.svg
+  - assets/vectors/vector_1_x2.svg
+  - assets/vectors/vector_25243_x2.svg
+  - assets/vectors/wifi_x2.svg
+  - assets/vectors/cellular_connection_x2.svg
+  - assets/images/flight_1.png
+  - assets/images/banner_png.png
+  - assets/images/review_png.png
+  - assets/images/afbea_4990382431.png
+  - assets/vectors/battery_6_x2.svg
+  - assets/vectors/cellular_connection_11_x2.svg
+  - assets/vectors/vector_2524_x2.svg
+  - assets/vectors/wifi_4_x2.svg
+  - assets/vectors/vector_175_stroke_4_x2.svg
+  - assets/vectors/wifi_7_x2.svg
+  - assets/vectors/cellular_connection_4_x2.svg
+  - assets/vectors/battery_1_x2.svg
+
